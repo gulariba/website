@@ -34,7 +34,7 @@ export default function HomePage() {
   ];
 
   return (
-    <main className="bg-black text-white  overflow-x-hidden">
+    <main className="bg-black text-white min-h-screen overflow-x-hidden">
       <Navbar />
       <Hero />
 
